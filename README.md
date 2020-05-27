@@ -1,1 +1,2 @@
-# python-database connectivity trial
+# connectivity practice
+python-dB-covid19
