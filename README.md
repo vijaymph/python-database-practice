@@ -1,2 +1,2 @@
-# connectivity practice
-python-dB-covid19
+# covid19
+python-database-connectivity
